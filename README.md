@@ -17,6 +17,7 @@ All Apis:-------
 
 ![Alt Text](https://github.com/12vaishnavi9/EdTech-App-Backend/blob/master/api-img1.png?raw=true)
 ![Alt_Text](https://github.com/12vaishnavi9/EdTech-App-Backend/assets/96681089/6aec1dca-ca1b-48a9-b3d5-5f1333a3125b)
+![Alt_Text](https://github.com/12vaishnavi9/EdTech-App-Backend/blob/master/api-img3.png?raw=true)
 
 
 
