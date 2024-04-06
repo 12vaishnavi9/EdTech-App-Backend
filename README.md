@@ -15,7 +15,7 @@ PASSWORD="app_password_from_gmail"
 
 All Apis:-------
 
-![Alt Text](image_url)
+![Alt Text]([image_url](https://github.com/12vaishnavi9/EdTech-App-Backend/blob/master/api-img1.png?raw=true))
 
 
 
