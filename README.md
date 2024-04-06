@@ -13,6 +13,11 @@ EMAIL="email_to_send_mails",
 PASSWORD="app_password_from_gmail"
 5. nodemon server.js
 
+All Apis:-------
+
+![Alt Text](image_url)
+
+
 
 
 
