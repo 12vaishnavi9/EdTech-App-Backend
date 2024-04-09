@@ -11,6 +11,9 @@ ethereal_name="generate_ethereal_email",
 ethereal_pass="password", 
 EMAIL="email_to_send_mails", 
 PASSWORD="app_password_from_gmail"
+4. Create env.js file:-
+export const EMAIL = 'email_to_send_mails';
+export const PASSWORD = 'app_password_from_gmail';
 5. nodemon server.js
 
 All Apis:-------
